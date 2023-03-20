@@ -1,0 +1,13 @@
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\bin\Debug\zj.BLL.dll
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\bin\Debug\zj.BLL.pdb
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\bin\Debug\zj.DAL.dll
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\bin\Debug\zj.DAL.pdb
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\obj\Debug\zj.BLL.csproj.AssemblyReference.cache
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\obj\Debug\zj.BLL.csproj.CoreCompileInputs.cache
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\obj\Debug\zj.BLL.csproj.CopyComplete
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\obj\Debug\zj.BLL.dll
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\obj\Debug\zj.BLL.pdb
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\bin\Debug\Newtonsoft.Json.dll
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\bin\Debug\zj.Models.dll
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\bin\Debug\zj.Models.pdb
+D:\Sample\SCADA\WTM\SWJWebProApp\zj.BLL\bin\Debug\Newtonsoft.Json.xml

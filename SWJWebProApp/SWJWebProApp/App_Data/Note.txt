@@ -1,0 +1,2 @@
+﻿利用反射优化数据访问类
+扩展学习 测试HttpWebRequest的各个处理方式，以及微软推荐的 HttpClient 方式。

@@ -1,0 +1,50 @@
+/* 公共样式 */
+/* 页面大小 */
+.container   /* 类选择器 ，容器的大小*/
+{
+	width: 1920px; /*容器的宽度和高度*/
+	height: 1080px;
+	background: url(../Images/bg.png) no-repeat center center  ;  /*图片插入居中，不重复*/
+	
+	
+}
+.middle
+{
+	width: 1840px;
+	margin: 0 auto;  /*版心在容器中居中，只有设置了宽度时有效果*/
+}
+.l
+{
+	float: left;     /*块级元素中可以使用*/
+}
+.r{
+	float: right;
+}
+.header{
+	width: 1920px; /*容器的宽度和高度*/
+	height: 260px;
+	background: url(../Images/top-bg_01.png) no-repeat center top ;
+	font-family: "微软雅黑";
+}
+.header_top{
+	height: 158px;
+	background-color: blue;
+	opacity: 0.3;
+}
+.header_bottom{
+	height: 102px;
+	background-color: red;
+}
+
+.header_top_left,
+.header_top_right{
+	width: 570px;
+	height: 100%;
+	background-color: green;
+}
+.header_top_middle{
+	width: 700px;
+	height: 100%;
+	background-color: yellow;
+}
+
