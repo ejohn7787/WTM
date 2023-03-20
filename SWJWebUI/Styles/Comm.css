@@ -29,7 +29,7 @@
 .header_top{
 	height: 158px;
 	background-color: blue;
-	opacity: 0.3;
+	
 }
 .header_bottom{
 	height: 102px;
@@ -47,4 +47,37 @@
 	height: 100%;
 	background-color: yellow;
 }
+/*头部左侧菜单按钮设置*/
+.header_top_left ul{
+	margin-top: 50px;
+}
+.header_top_left ul li{
+	float: left;       
+	width: 153px;
+	height: 42px;
+	text-align: center;
+	line-height: 42px;
+}
+.header_top_left ul li a{
+	display: inline-block;
+	width: 153px;
+	height: 42px;
+	background: url(../Images/top/top_07.png);
+	font-size: 20px;
+	font-weight: bold;
+	color: #fff;
+	text-shadow: 0 0 10px #0190f5;
+}
+.header_top_left ul li:first-child a{
+	background: none;
+	width: 116px;
+}
 
+.header_top_left ul li:first-child a span{
+	display: inline-block;
+	width: 42px;
+	height: 42px;
+	background-image: url(../Images/top/top_03.png);
+	vertical-align: middle;       /*盒模型和文本垂直居中对齐*/
+	
+}
